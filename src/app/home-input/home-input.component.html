@@ -1,0 +1,30 @@
+<h1>{{TITLE | uppercase}}</h1>
+<p>{{SUBTITLE}}</p>
+<button *ngIf="!started" type="button" mat-raised-button (click)="startProcessing()">Iniciar Processamento</button>
+<div *ngIf="started">
+    <form>
+        <div class="form-container">
+            <div class="input-container">
+                <button type="button" mat-raised-button (click)="fileInput1.click()"><mat-icon>add</mat-icon> BP Ativo</button>
+                <input hidden (change)="onBpAtivoSelected($event)" #fileInput1 type="file" accept=".csv">
+                <span class="file-name">{{bpAtivoFile?.name}}</span>
+            </div>
+    
+            <div class="input-container">
+                <button type="button" mat-raised-button (click)="fileInput2.click()"><mat-icon>add</mat-icon> BP Passivo</button>
+                <input hidden (change)="onBpPassivoSelected($event)" #fileInput2 type="file" accept=".csv">
+                <span class="file-name">{{bpPassivoFile?.name}}</span>
+            </div>
+    
+            <div class="input-container">
+                <button type="button" mat-raised-button (click)="fileInput3.click()"><mat-icon>add</mat-icon> DRE</button>
+                <input hidden (change)="onDreSelected($event)" #fileInput3 type="file" accept=".csv">
+                <span class="file-name">{{dreFile?.name}}</span>
+            </div>
+    
+            <div class="input-container">
+                <button mat-raised-button (click)="sendFiles()" color="primary" type="button" [disabled]="isDisabledForm()">Enviar</button>
+            </div>
+        </div>
+    </form>
+</div>

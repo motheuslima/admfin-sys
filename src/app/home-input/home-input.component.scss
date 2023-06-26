@@ -1,0 +1,17 @@
+:host {
+    .file-name {
+        margin-left: 1rem;
+        align-self: center;
+    }
+    
+    .form-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .input-container {
+        display: flex;
+        flex-direction: row;
+        margin: 10px;
+    }
+}

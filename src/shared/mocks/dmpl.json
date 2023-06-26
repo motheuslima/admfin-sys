@@ -1,0 +1,86 @@
+[
+    {
+      "Conta": 5.01,
+      "Descrição": "Saldos Iniciais",
+      "Capital Social Integralizado": "3.402.385",
+      "Reservas de Capital, Opções Outorgadas e Ações em Tesouraria": -8.576,
+      "Reservas de Lucro": "2.834.829",
+      "Lucros ou Prejuízos Acumulados": 0,
+      "Outros Resultados Abrangentes": -2.005,
+      "Patrimônio Líquido": "6.226.633",
+      "Participação dos Não Controladores": 0,
+      "Patrimônio Líquido Consolidado": "6.226.633"
+    },
+    {
+      "Conta": 5.02,
+      "Descrição": "Ajustes de Exercícios Anteriores",
+      "Capital Social Integralizado": "",
+      "Reservas de Capital, Opções Outorgadas e Ações em Tesouraria": "",
+      "Reservas de Lucro": "",
+      "Lucros ou Prejuízos Acumulados": "",
+      "Outros Resultados Abrangentes": "",
+      "Patrimônio Líquido": "",
+      "Participação dos Não Controladores": "",
+      "Patrimônio Líquido Consolidado": ""
+    },
+    {
+      "Conta": 5.03,
+      "Descrição": "Saldos Iniciais Ajustados",
+      "Capital Social Integralizado": "3.402.385",
+      "Reservas de Capital, Opções Outorgadas e Ações em Tesouraria": -8.576,
+      "Reservas de Lucro": "2.834.829",
+      "Lucros ou Prejuízos Acumulados": 0,
+      "Outros Resultados Abrangentes": -2.005,
+      "Patrimônio Líquido": "6.226.633",
+      "Participação dos Não Controladores": 0,
+      "Patrimônio Líquido Consolidado": "6.226.633"
+    },
+    {
+      "Conta": 5.04,
+      "Descrição": "Transações de Capital com os Sócios",
+      "Capital Social Integralizado": "",
+      "Reservas de Capital, Opções Outorgadas e Ações em Tesouraria": "",
+      "Reservas de Lucro": "",
+      "Lucros ou Prejuízos Acumulados": "",
+      "Outros Resultados Abrangentes": "",
+      "Patrimônio Líquido": "",
+      "Participação dos Não Controladores": "",
+      "Patrimônio Líquido Consolidado": ""
+    },
+    {
+      "Conta": 5.05,
+      "Descrição": "Resultado Abrangente Total",
+      "Capital Social Integralizado": 0,
+      "Reservas de Capital, Opções Outorgadas e Ações em Tesouraria": 0,
+      "Reservas de Lucro": 0,
+      "Lucros ou Prejuízos Acumulados": 754.374,
+      "Outros Resultados Abrangentes": -26.743,
+      "Patrimônio Líquido": 727.631,
+      "Participação dos Não Controladores": 0,
+      "Patrimônio Líquido Consolidado": 727.631
+    },
+    {
+      "Conta": 5.06,
+      "Descrição": "Mutações Internas do Patrimônio Líquido",
+      "Capital Social Integralizado": 0,
+      "Reservas de Capital, Opções Outorgadas e Ações em Tesouraria": 0,
+      "Reservas de Lucro": 544.11,
+      "Lucros ou Prejuízos Acumulados": -754.374,
+      "Outros Resultados Abrangentes": -287,
+      "Patrimônio Líquido": -210.551,
+      "Participação dos Não Controladores": 0,
+      "Patrimônio Líquido Consolidado": -210.551
+    },
+    {
+      "Conta": 5.07,
+      "Descrição": "Saldos Finais",
+      "Capital Social Integralizado": "3.402.385",
+      "Reservas de Capital, Opções Outorgadas e Ações em Tesouraria": -8.576,
+      "Reservas de Lucro": "3.378.939",
+      "Lucros ou Prejuízos Acumulados": 0,
+      "Outros Resultados Abrangentes": -29.035,
+      "Patrimônio Líquido": "6.743.713",
+      "Participação dos Não Controladores": 0,
+      "Patrimônio Líquido Consolidado": "6.743.713"
+    }
+  ]
